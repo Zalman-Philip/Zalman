@@ -1,0 +1,9 @@
+{
+  "main": "./dist/app.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
